@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e03aea-d13a-4ccb-a748-c520bdcedd2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CalendarService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CalendarService/.idea/efCoreCommonOptions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CalendarService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CalendarService/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CalendarService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/52cb42a7-f1e0-4501-9a5f-fae48e44317a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/CalendarService.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Controllers/AppUserController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Controllers/AuthenticationController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Controllers/CalendarController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Controllers/CalendarEventController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Controllers/CalendarTaskController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/DbContexts/CalendarServiceContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Authentication/LoginRequestDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Authentication/LoginResponseDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Authentication/RegisterRequestDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Calendar/CalendarDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Calendar/CalendarForCreationDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Calendar/CalendarForUpdateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/Calendar/CalendarWithOwnerDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarEvent/CalendarEventDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarEvent/CalendarEventForCreationDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarEvent/CalendarEventForUpdateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarTask/CalendarTaskDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarTask/CalendarTaskForCreationDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/CalendarTask/CalendarTaskForUpdateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/User/AppUserDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Entities/User/AppUserWithCalendarsDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20221214203428_Initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20221214203428_Initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20221227091001_CalendarItemLocationNull.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20221227091001_CalendarItemLocationNull.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20230114140353_RenameSubscriptionsTable.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/20230114140353_RenameSubscriptionsTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Migrations/CalendarServiceContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/AppRole.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/AppUser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/Calendar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarItemFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarUserInvitation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Models/CalendarUserSubscription.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Profiles/AppUserProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Profiles/CalendarEventProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Profiles/CalendarProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Profiles/CalendarTaskProfile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/CalendarEventRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/CalendarRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/CalendarTaskRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/ICalendarEventRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/ICalendarRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/ICalendarTaskRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/Services/UnitOfWork.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/calendar-service.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/calendar-service.db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalendarService/calendar-service.db-wal" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IYeBQs03IWWig41jpKtykD0AhR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danil&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
